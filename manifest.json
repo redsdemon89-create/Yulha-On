@@ -1,6 +1,6 @@
 {
-  "name": "MyApp",
-  "short_name": "MyApp",
+  "name": "Yulha-On",
+  "short_name": "Yulha-On",
   "description": "나의 웹 애플리케이션",
   "start_url": "./index.html",
   "display": "standalone",
